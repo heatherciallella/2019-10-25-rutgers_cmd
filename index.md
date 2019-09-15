@@ -185,6 +185,10 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p id="registration">
+<strong>Registration:</strong>  We encourage interested participants to <a href="https://docs.google.com/forms/d/1LS-hXNFwcvYX2SCM6I2Bnwt8bCE-YxHgAwKHT-5Nufc">register</a>.
+</p>
+
 <hr/>
 
 {% comment %} 
