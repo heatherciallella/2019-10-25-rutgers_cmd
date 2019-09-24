@@ -186,7 +186,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="registration">
-<strong>Registration:</strong>  We encourage interested participants to <a href="https://docs.google.com/forms/d/1LS-hXNFwcvYX2SCM6I2Bnwt8bCE-YxHgAwKHT-5Nufc">register</a> by October 15, 2019. Complimentary coffee, snacks, and lunch will be available for registered participants during the scheduled breaks.
+<strong>Registration:</strong>  We kindly ask that interested participants <a href="https://docs.google.com/forms/d/1LS-hXNFwcvYX2SCM6I2Bnwt8bCE-YxHgAwKHT-5Nufc">register</a> by October 7, 2019. Complimentary coffee, snacks, and lunch will be available for registered participants during the scheduled breaks.
 </p>
 
 <hr/>
